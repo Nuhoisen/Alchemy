@@ -1,0 +1,25 @@
+﻿  Test.cpp
+c:\users\kelly\desktop\211lab1\211lab1\test.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KeyboardHandling.cpp
+  GameBoard.cpp
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(639): warning C4309: 'initializing': truncation of constant value
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(664): warning C4309: 'initializing': truncation of constant value
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(693): warning C4309: '=': truncation of constant value
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(729): warning C4101: 'answer': unreferenced local variable
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(729): warning C4101: 'answer2': unreferenced local variable
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(1144): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+  FileIO.cpp
+  Exception.cpp
+c:\users\kelly\desktop\211lab1\211lab1\exception.cpp(46): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kelly\desktop\211lab1\211lab1\exception.cpp(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kelly\desktop\211lab1\211lab1\exception.cpp(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\kelly\desktop\211lab1\211lab1\exception.cpp(149): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  Generating Code...
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(892): warning C4172: returning address of local variable or temporary: returnSym
+c:\users\kelly\desktop\211lab1\211lab1\gameboard.cpp(791): warning C4172: returning address of local variable or temporary: promptCoord
+  211Lab1.vcxproj -> C:\Users\kelly\Desktop\211Lab1\Debug\211Lab1.exe
